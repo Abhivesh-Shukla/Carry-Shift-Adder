@@ -1,2 +1,2 @@
 # Carry-Shift-Adder
-Created by Abhivesh Shukla and Prantik Ghosh
+Created by Abhivesh Shukla, Sukhumjeet Singh and Prantik Ghosh

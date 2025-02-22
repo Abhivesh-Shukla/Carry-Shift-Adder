@@ -25,7 +25,7 @@ This project simulates a 4-bit binary adder using a Carry Lookahead Adder (CLA) 
 3. **Run the Program:**
    ```bash
    ./Carry-Shift-Adder
-4. **Input two 4-bit binary number from right to left**
+4. **Input two 4-bit binary number from right to the left**
 5. **The program will display sum the sum in binary format**
 
 
